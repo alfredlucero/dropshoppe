@@ -21,6 +21,7 @@
   "homepage": "https://github.com/alfredlucero/dropshoppe#readme",
   "dependencies": {
     "express": "^4.16.3",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "^7.0.1",
     "react": "^16.5.2",
     "react-dom": "^16.5.2"
