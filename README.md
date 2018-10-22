@@ -1,2 +1,3 @@
 # dropshoppe
-aesthetic shop of shops
+
+aesthetically dropshipping shops

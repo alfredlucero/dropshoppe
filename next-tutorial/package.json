@@ -1,7 +1,7 @@
 {
   "name": "dropshoppe",
   "version": "1.0.0",
-  "description": "aesthetic shop of shops",
+  "description": "aesthetically dropshipping shops",
   "main": "index.js",
   "scripts": {
     "dev": "node server.js",
